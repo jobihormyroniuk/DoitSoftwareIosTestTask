@@ -1,0 +1,17 @@
+/* 
+  EditTaskScreenStrings.strings
+  DoitSoftwareIosTestTask
+
+  Created by Ihor Myroniuk on 27.12.2020.
+  
+*/
+
+"title" = "Edit Task";
+"edit" = "Edit";
+"back" = "Back";
+"taskTitle" = "Title";
+"priorityTitle" = "Priority";
+"lowPriority" = "Low";
+"mediumPriority" = "Medium";
+"highPriority" = "High";
+"dueByTitle" = "Due by";

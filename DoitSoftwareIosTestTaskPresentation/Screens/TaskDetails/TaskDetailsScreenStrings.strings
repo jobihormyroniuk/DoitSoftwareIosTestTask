@@ -1,0 +1,13 @@
+/* 
+  TaskDetailsScreenStrings.strings
+  DoitSoftwareIosTestTask
+
+  Created by Ihor Myroniuk on 27.12.2020.
+  
+*/
+
+"delete" = "Delete";
+"update" = "Update";
+"back" = "Back";
+"title" = "Task Details";
+"priorityTitle" = "Priority";
